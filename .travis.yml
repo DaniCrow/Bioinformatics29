@@ -3,4 +3,4 @@ install:
 
 script: 
   - proselint README.md
-npm install --save markdown-link-check
+[Check_Dead_Links](https://github.com/DaniCrow/Bioinformatics29/blob/master/check_dead_links)
