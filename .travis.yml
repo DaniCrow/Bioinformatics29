@@ -4,4 +4,4 @@ install:
 script: 
   - proselint README.md
 
-[check_dead_links]
+-./check_dead_links
