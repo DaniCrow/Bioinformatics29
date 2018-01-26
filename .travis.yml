@@ -2,4 +2,4 @@ install:
   - sudo pip install proselint
 
 script: 
-  - proselint Bioinformatics29.md
+  - proselint README.md
